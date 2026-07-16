@@ -1,5 +1,5 @@
 ## Hi, I'm Anna Malchevska 👋
-### Junior Frontend Developer | React | Node.js | TypeScript | Node.js
+### Junior Frontend Developer | React | Node.js | TypeScript | Next.js
 I am a Frontend Developer specializing in **React, TypeScript, Next.js , Node.js**. Focused on clean code, performance
 optimization, and user-friendly interfaces. Experienced in
 working within Scrum teams and managing tasks through
